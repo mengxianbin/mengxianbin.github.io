@@ -1,3 +1,3 @@
-# [mengxianbin.github.io](./index.md)
+# [mengxianbin.github.io](https://mengxianbin.github.io)
 
 ---
