@@ -5,4 +5,6 @@
 
 ## [Music Theory](https://mengxianbin.github.io/mu-note/content)
 
+## [Methodology](https://mengxianbin.github.io/me-note/content)
+
 ---
