@@ -1,7 +1,7 @@
 
 ## [GitHub](https://github.com/mengxianbin)
 
-## [Computer Sience](https://mengxianbin.github.io/cs-notes/content)
+## [Computer Science](https://mengxianbin.github.io/cs-notes/content)
 
 ## [Music Theory](https://mengxianbin.github.io/mu-notes/content)
 
